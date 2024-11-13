@@ -1,0 +1,16 @@
+.header{
+    background-color: #11aeef;
+}
+ul li{
+    color: white;
+    font-family: arial;
+    font-size: 14px;
+}
+.read_more:hover{
+    color: white;
+    background-color: green;
+}
+.footer{
+    background-color: black;
+    color: white;
+}

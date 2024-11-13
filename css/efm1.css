@@ -1,0 +1,25 @@
+body{
+    font-family: sans-serif;
+}
+h1{
+    font-family:cursive ;
+    color: purple;
+}
+.champ{
+    color: blue;
+    font-weight: bold;
+    font-size: 14px;
+
+}
+fieldset{
+    background: linear-gradient(to right,gray,white);
+}
+legend{
+    text-transform: uppercase;
+}
+.input{
+    border-right: 1px solid black;
+    border-radius: 5px;
+    width: 200px;
+
+}

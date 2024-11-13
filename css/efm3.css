@@ -1,0 +1,19 @@
+card1{
+    background-color: gray;
+    padding: 40px;
+    margin: auto;
+}
+h1{
+    font-size: 2em;
+    font-family: Helvetica, sans-serif;
+    text-transform: uppercase;
+}
+/* question 3 is hard*/
+
+button:hover{
+    background-color: green;
+    color: white;
+}
+ul li{
+    font-style: italic;
+}
